@@ -1,8 +1,4 @@
-# React + Vite
+# What i learn
+* today i learned something about props which means properties it helps us to get the properties in functions, we also can give the default property value by using this feature.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Also i started using tailwind here, so i got to know about some basic classes of tailwind css.
