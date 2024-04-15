@@ -13,13 +13,16 @@ function App() {
 
   //ADDING TASKS
   const addTask = () => {
-    handleTasks((prevTask) => {
-      return [
-        ...prevTask,
-        task
-      ];
-    })
-    setTask('');
+    if(task !== '') {
+      handleTasks((prevTask) => {
+          return [
+            ...prevTask,
+            task
+          ];
+  
+      })
+      setTask('');
+    }
   }
   
   //HANDLING TASK DELETION

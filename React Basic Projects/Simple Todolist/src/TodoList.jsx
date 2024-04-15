@@ -7,7 +7,7 @@ const TodoList = (props) => {
     <button className="bg-transparent" onClick={() => {
       props.onSelect(props.id)
     }}>
-      <i class="fa-solid fa-trash"></i>
+      <i className="fa-solid fa-trash"></i>
     </button>
     <li>{props.text}</li>
     </div>
