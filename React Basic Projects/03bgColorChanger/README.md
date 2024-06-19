@@ -3,8 +3,8 @@ A background color changer which changes the background color of webpage when a 
 
 <h2>What I learned in this Project 🖥️</h2>
 <ul>
-<li>Got to learn more about useState hook and onClick attribute.</li>
-<li>got to know more new classes of tailwind css daily.</li>
+<li>Learned more about useState hook and onClick attribute.</li>
+<li>Got to know more new classes of tailwind css daily.</li>
 </ul>
 
 <h2>How it looks 🎥</h2>
